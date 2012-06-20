@@ -1,6 +1,6 @@
 {
     "name": "test-nomaster",
     "volo": {
-        "archive": "https://raw.github.com/volojs/test-nomaster/{version}/real.js"
+        "url": "https://raw.github.com/volojs/test-nomaster/{version}/real.js"
     }
 }
